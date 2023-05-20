@@ -1,0 +1,208 @@
+# .NET Framework
+*.exe
+*.dll
+*.pdb
+*.obj
+*.user
+*.suo
+*.bak
+*.cache
+*.ilk
+*.ncb
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*.ilk
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+
+# Visual Studio files
+*.csproj.user
+*.vcxproj.user
+*.suo
+*.user
+*.vspscc
+*.vssscc
+*.cache
+*.bak
+*.log
+*.vspx
+*.jfm
+*.gpState
+
+# NuGet packages
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Test Results
+[TestRr]esult*
+[Bb]uild[Ll]og.*
+
+# Resharper
+_ReSharper*/
+
+# GhostDoc
+[Gg]host[Dd]oc*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject
+_DocProject/
+
+# TeamCity build folder
+_TeamCity*
+
+# Xamarin-specific
+*.apk
+*.ap_
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.la
+*.lo
+*.o
+*.a
+*.lib
+*.def
+*.exp
+
+# Compiled Static libraries
+*.lai
+*.la
+*.lo
+*.def
+*.exp
+
+# Image files
+*.png
+*.jpeg
+*.jpg
+*.gif
+*.ico
+*.bmp
+*.tif
+*.tiff
+*.svg
+*.svgz
+*.eps
+*.ai
+*.raw
+*.cr2
+*.nef
+*.sr2
+*.orf
+*.3fr
+*.dng
+
+# Audio files
+*.wav
+*.mp3
+*.mp2
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.oga
+*.wma
+*.ape
+*.aiff
+*.aif
+*.opus
+*.webm
+
+# Video files
+*.avi
+*.mov
+*.mp4
+*.mpeg
+*.mpg
+*.mkv
+*.webm
+
+# Other binary files
+*.pdf
+*.exe
+*.dll
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.tar.bz2
+*.tar.xz
+*.bz2
+*.7z
+*.xpi
+*.vsix
+*.gz
+*.xz
+*.lzma
+*.swf
+*.flv
+*.xcf
+*.psd
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+*.psd
+
+# Temporary files
+*.tmp
+*.swp
+*~.nib
+*~.swp
+*~
+*.bak
+*.cache
+*.DS_Store
+*.tmp
+*.tmp.*
+*.~*
+*.swp
+*.swpx
+*.swpxx
+*.swp~
